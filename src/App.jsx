@@ -120,7 +120,7 @@ function App() {
 
   return (
 
-    <main className="bg-linear-to-bl from-cyan-400 to-green-300 h-screen w-screen flex flex-col gap-2">
+    <main className="bg-linear-to-bl from-cyan-400 to-green-300 h-svh flex flex-col">
 
       <h1 className='text-5xl text-cyan-100 grid place-items-center m-auto'>Tic Tac Toe</h1>
 
