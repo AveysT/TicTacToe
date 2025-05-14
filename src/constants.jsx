@@ -1,5 +1,5 @@
 export const Player = {
-  X: <img src="src\assets\X_01.svg" alt="X"/>,
+  X: <img src="src\assets\X_01.png" alt="X"/>,
   O: <img src="src\assets\O_01.svg" alt="O"/>
 };
 
