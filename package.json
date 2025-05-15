@@ -1,5 +1,6 @@
 {
   "name": "tic-tac-toe",
+  "homepage": "https://aveyst.github.io/TicTacToe/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
