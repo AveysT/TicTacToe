@@ -1,6 +1,6 @@
 export const Player = {
-  X: <img src="src\assets\X_01.svg" alt="X"/>,
-  O: <img src="src\assets\O_01.svg" alt="O"/>
+  X: <img src="src\assets\x_01.svg" alt="X"/>,
+  O: <img src="src\assets\o_01.svg" alt="O"/>
 };
 
 export const WinningCombinations = [
